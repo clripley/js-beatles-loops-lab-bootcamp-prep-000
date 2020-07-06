@@ -21,4 +21,3 @@ i++;
 }
 return newArray;
 } 
-function iLoveTheBeatles() {
