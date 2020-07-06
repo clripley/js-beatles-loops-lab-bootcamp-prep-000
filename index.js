@@ -26,5 +26,6 @@ function iLoveTheBeatles() {
   var newArry=[];
   do () 
   console.log("I love the Beatles.")
+  while 
   }
 }
