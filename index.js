@@ -25,5 +25,5 @@ function iLoveTheBeatles() {
   var i=0;
   var newArry=[];
   do () {
-  console.log
+  console.log("I love the beatles."
 }
