@@ -24,6 +24,6 @@ return newArray;
 function iLoveTheBeatles() {
   var i=0;
   var newArry=[];
-  do ()
-  console.log 
+  do () {
+  console.log
 }
